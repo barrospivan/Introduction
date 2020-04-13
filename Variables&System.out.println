@@ -1,0 +1,15 @@
+public class VariablesySyso {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int num = 5;
+		double deci = 8.95;
+		String cad= "Hola Mundo";
+		Boolean pue= true;
+		
+		System.out.println("Hola Mundo");
+		System.out.println(cad);
+	}
+
+}
